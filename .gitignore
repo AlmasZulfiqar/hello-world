@@ -1,2 +1,29 @@
-*.txt
-/newfolder/*
+ ../../../$RECYCLE.BIN/
+        ../../../.dotnet/
+        ../../../.eclipse/
+        ../../../.librarymanager/
+        ../../../.m2/
+        ../../../.p2/
+        ../../../.templateengine/
+        ../../../.tooling/
+        ../../../14-10-2021/
+        ../../../3D Objects/
+        ../../../Contacts/
+        ../../../DCIM/
+        ../../../Desktop/
+        ../../../Documents/
+        ../../
+        ../../../Euclid.class
+        ../../../Euclid.java
+        ../../../Favorites/
+        ../../../Links/
+        ../../../LoginSystem/
+        ../../../MicrosoftEdgeBackups/
+        ../../../Mobile data/
+        ../../../Music/
+        ../../../New folder/
+        ../../../SQL2019/
+        ../../../Videos/
+        ../../../eclipse-workspace/
+        ../../../java eclipse/
+
